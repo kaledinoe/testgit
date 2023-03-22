@@ -4,4 +4,9 @@ public class Test {
         return "OK";
     }
 
+
+    public static void main(String[] args) {
+
+    }
+
 }
